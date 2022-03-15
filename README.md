@@ -1,9 +1,6 @@
 ### Hi there 👋 Shiladitya here
 
-<!--
-**shiladityaroy212/shiladityaroy212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my github repo
 
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning data science
@@ -13,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shiladityaroy212@gmail.com
 - 😄 Pronouns: titanium
 - ⚡ Fun fact: I am a great anime lover...My dp says it all!!
--->
 
 For the Live summary of my account please click here :https://www.linkedin.com/in/shiladityaroy212/
 
