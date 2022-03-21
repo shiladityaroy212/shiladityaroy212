@@ -20,7 +20,7 @@ For the Live summary of my account please click here :https://www.linkedin.com/i
 
 <br>
 
-<p align="left"> <summary>:chart_with_upwards_trend: Contribution Graph </summary></p>
+<p><p> <summary>:chart_with_upwards_trend: Contribution Graph </summary></p></p>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=shiladityaroy212&theme=xcode" alt="Contribution Graph" align="center" />
 
