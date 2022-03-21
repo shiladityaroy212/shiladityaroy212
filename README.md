@@ -18,7 +18,8 @@ For the Live summary of my account please click here :https://www.linkedin.com/i
 
 <img align="left" alt="Shiladitya Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiladityaroy212&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
-<br>
+
+
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=shiladityaroy212&theme=xcode" alt="Contribution Graph" align="center" />
 
