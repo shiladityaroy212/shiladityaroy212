@@ -18,6 +18,7 @@ For the Live summary of my account please click here :https://www.linkedin.com/i
 
 <img align="left" alt="Shiladitya Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiladityaroy212&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
+<br/>
 
 <summary>:chart_with_upwards_trend: 
    Contribution Graph </summary>
