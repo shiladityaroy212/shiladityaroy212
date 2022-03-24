@@ -7,8 +7,9 @@ Welcome to my github repo
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about myself XD
-- 📫 How to reach me: shiladityaroy212@gmail.com
-- 😄 Pronouns: titanium
+- 📫 Email-shiladityaroy212@gmail.com
+- 📫 Linkedin-https://www.linkedin.com/in/shiladityaroy212/ 
+- 😄 Pronouns: He/him/they
 - ⚡ Fun fact: I am a great anime lover...My dp says it all!!
 
 For the Live summary of my account please click here :https://www.linkedin.com/in/shiladityaroy212/
