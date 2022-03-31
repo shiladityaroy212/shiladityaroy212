@@ -12,7 +12,8 @@
 - 😄 Pronouns: He/him/they
 - ⚡ Fun fact: I am a great anime lover...My dp says it all!!
 
-For the Live summary of my account please click here :https://www.linkedin.com/in/shiladityaroy212/
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiladityaroy212&theme=gray)](https://github.com/shiladityaroy212/github-profile-trophy)
+<br>
 
 
 ![](https://komarev.com/ghpvc/?username=shiladityaroy212&color=blue&style=flat-square)
