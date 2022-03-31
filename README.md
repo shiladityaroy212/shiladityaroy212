@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/him/they
 - ⚡ Fun fact: I am a great anime lover...My dp says it all!!
 
+###Some trophies to showcase 😄 :-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shiladityaroy212&theme=gray)](https://github.com/shiladityaroy212/github-profile-trophy)
 <br>
 
