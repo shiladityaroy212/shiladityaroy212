@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about myself XD
-- 📫 Email-shiladityaroy212@gmail.com
+- 📫 Email - shiladityaroy212@gmail.com
 - 😄 Pronouns: He/him/they
 - ⚡ Fun fact: I am a great anime lover...My dp says it all!!
 
