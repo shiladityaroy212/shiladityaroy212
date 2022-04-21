@@ -3,14 +3,14 @@
 #### Firstly, Lets Connect with him with these links 😊 :-
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&"height:10px")](https://www.linkedin.com/in/shiladityaroy212/)
 
-- 🔭 I’m currently working on ML projects
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with my projects
-- 💬 Ask me about myself XD
+- 🔭 He is currently working on ML projects
+- 🌱 He is currently learning data science
+- 👯 He is looking to collaborate on data science projects
+- 🤔 He is looking for help with his projects
+- 💬 Ask me about him XD
 - 📫 Email - shiladityaroy212@gmail.com
 - 😄 Pronouns: He/him/they
-- ⚡ Fun fact: I am a great anime lover...My dp says it all!!
+- ⚡ Fun fact: He is die hard fan of anime...His dp says it all!!
 
 #### Some trophies to showcase 😄 :-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shiladityaroy212&theme=gray)](https://github.com/shiladityaroy212/github-profile-trophy)
