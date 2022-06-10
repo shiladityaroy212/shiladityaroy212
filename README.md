@@ -1,4 +1,4 @@
-### Hi there<img src= https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif width=30px>, I am Shiladitya's read me repository 👨‍💻. I contain a lots of information about him <img src= https://media.tenor.com/images/9ff011fc554c97e33caea190a301fcb4/tenor.gif width=30px>. So, put on your seatbealts and lets <img src= https://media.tenor.com/images/ee5e3af0efd1bf7292a099ded06c2e80/tenor.gif width=30px> into the <img src= https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif  width=30px> of information regarding Shiladitya <img src= https://media.tenor.com/images/67c179763027482922c8af0943b13a09/tenor.gif  width=25px>
+### Hi there<img src= https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif width=1px>, I am Shiladitya's read me repository 👨‍💻. I contain a lots of information about him <img src= https://media.tenor.com/images/9ff011fc554c97e33caea190a301fcb4/tenor.gif width=1px>. So, put on your seatbealts and lets <img src= https://media.tenor.com/images/ee5e3af0efd1bf7292a099ded06c2e80/tenor.gif width=1px> into the <img src= https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif  width=1px> of information regarding Shiladitya <img src= https://media.tenor.com/images/67c179763027482922c8af0943b13a09/tenor.gif  width=1px>
 
 #### Firstly, Lets Connect with him with these links 😊 :-
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&"height:10px")](https://www.linkedin.com/in/shiladityaroy212/)
@@ -21,9 +21,3 @@
 
 <img align="left" alt="Shiladitya Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiladityaroy212&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
-
-
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=shiladityaroy212&theme=xcode" alt="Contribution Graph" align="center" />
-
-<br>
